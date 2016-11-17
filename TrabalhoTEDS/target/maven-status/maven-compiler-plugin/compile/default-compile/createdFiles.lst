@@ -1,9 +1,0 @@
-modelo\Produto.class
-modelo\Pedido.class
-modelo\CarrinhoCompras.class
-modelo\dao\PedidoDAO.class
-modelo\Item.class
-modelo\dao\ItemDAO.class
-modelo\dao\ProdutoDAO.class
-modelo\dao\DAOFactory.class
-modelo\dao\ConexaoFactory.class
